@@ -30,7 +30,7 @@ function search(str, i, root) {
     if (!root.map[str[i]])
         return []; // if map doest contain value return empty list
 
-    //recursive call
+    //recursive cal
     return search(str, i + 1, root.map[str[i]]);
 
 }
