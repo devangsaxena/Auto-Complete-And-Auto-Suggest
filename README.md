@@ -1,6 +1,6 @@
 # Tourism-Lookup-India
 
-### -> Developed a Tourism Website which provides users a list of all the famous places of India based on a particular state.
+### -> Developed a Tourism Website which provides users a list of all the famous places in India of a particular state.
 
 ### -> Implemented the auto-suggest feature using Advance Data Structure Trie in Javascript.
 
