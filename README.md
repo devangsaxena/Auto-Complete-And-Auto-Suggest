@@ -12,3 +12,5 @@
 
 ### Landing Page View
 
+![Tourism](https://user-images.githubusercontent.com/46219105/122180314-f0cfad80-cea5-11eb-88b6-fa22f4bbdeb0.JPG)
+
